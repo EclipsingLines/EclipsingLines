@@ -11,8 +11,6 @@ Turning coffee into code and ideas into interfaces since 2015. Let's build somet
 
 ---
 
-## 🛠️ Toolbox
-
 ### 💻 Languages
 ![C#](https://learn.microsoft.com/en-us/dotnet/csharp/) || 
 ![GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html) || 
