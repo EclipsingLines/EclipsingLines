@@ -15,21 +15,21 @@ Turning coffee into code and ideas into interfaces since 2015. ✨
 ![C#](https://learn.microsoft.com/en-us/dotnet/csharp/) || 
 ![GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html) || 
 ![Python](https://www.python.org/) || 
-![C++](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) ||
+![C++](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
 
 ### 🧩 Frameworks & Libraries
 ![Unity 3D](https://unity.com/) || 
 ![Godot](https://godotengine.org/) || 
 ![Stride](https://www.stride3d.net/) || 
 ![MonoGame](https://monogame.net/) || 
-![Unreal Engine](https://www.unrealengine.com/en-US) ||
+![Unreal Engine](https://www.unrealengine.com/en-US)
 
 ### 🎨 Tools
 ![Krita](https://krita.org/en/) || 
 ![ShotCut](https://shotcut.org/) || 
 ![Ardour](https://ardour.org/) || 
 ![VCV Rack](https://vcvrack.com/) || 
-![Aider](https://aider.chat/) || 
+![Aider](https://aider.chat/)
 
 ---
 ```ASCII
