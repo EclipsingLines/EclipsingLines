@@ -24,14 +24,14 @@ Turning coffee into code and ideas into interfaces since 2015. Let's build somet
 ![Godot](https://godotengine.org/) || 
 ![Stride](https://www.stride3d.net/) || 
 ![MonoGame](https://monogame.net/) || 
-![Unreal Engine](https://www.unrealengine.com/en-US) || 
+![Unreal Engine](https://www.unrealengine.com/en-US) ||
 
 ### 🎨 Tools
-![Krita](https://krita.org/en/)
-![ShotCut](https://shotcut.org/)
-![Ardour](https://ardour.org/)
-![VCV Rack](https://vcvrack.com/)
-![Aider](https://aider.chat/)
+![Krita](https://krita.org/en/) || 
+![ShotCut](https://shotcut.org/) || 
+![Ardour](https://ardour.org/) || 
+![VCV Rack](https://vcvrack.com/) || 
+![Aider](https://aider.chat/) || 
 
 ---
 ```ASCII
