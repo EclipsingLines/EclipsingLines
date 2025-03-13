@@ -26,11 +26,15 @@ Turning coffee into code and ideas into interfaces since 2015. Let's build somet
 ![MonoGame](https://monogame.net/) || 
 ![Unreal Engine](https://www.unrealengine.com/en-US) || 
 
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+### 🎨 Tools
+![Krita](https://krita.org/en/)
+![ShotCut](https://shotcut.org/)
+![Ardour](https://ardour.org/)
+![VCV Rack](https://vcvrack.com/)
+![Aider](https://aider.chat/)
 
 ---
-
+```ASCII
 +----------------------+
 |     xxx              |
 | xxxx                 |
@@ -43,4 +47,4 @@ Turning coffee into code and ideas into interfaces since 2015. Let's build somet
 |             xxxxx    |
 |                      |
 +----------------------+
-
+```
